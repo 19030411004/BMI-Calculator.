@@ -25,7 +25,7 @@ public class resultt {
  
  int  result;
  
- //
+ 
  
  if(bmi<16)  
  result =1 ;  
